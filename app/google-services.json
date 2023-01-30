@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650872928198",
+    "project_id": "anggaapp-cbcba",
+    "storage_bucket": "anggaapp-cbcba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650872928198:android:93151a29fe0d1ae104e4c7",
+        "android_client_info": {
+          "package_name": "com.example.anggaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650872928198-pksdt9tg0pbdc949q02d45el5roiosg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaLMVEHqZYnHUSV-3SheDMJNEjBAbNyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650872928198-pksdt9tg0pbdc949q02d45el5roiosg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
